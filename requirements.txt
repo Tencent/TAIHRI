@@ -1,0 +1,8 @@
+flash_attn==2.8.3
+numpy==2.4.2
+opencv_python==4.11.0.86
+Pillow==12.1.1
+qwen_vl_utils==0.0.14
+tqdm==4.67.3
+transformers==4.57.0
+vllm>=0.14.1
