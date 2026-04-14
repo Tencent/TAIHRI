@@ -1,4 +1,10 @@
 # TAIHRI: Task-Aware 3D Human Keypoints Localization for Close-Range Human-Robot Interaction
+[![arXiv](https://img.shields.io/badge/arXiv-2604.08921-b31b1b.svg)](https://arxiv.org/abs/2604.08921)
+
+*[Ao Li](https://rammusleo.github.io/), [Yonggen Ling](https://ygling2008.github.io/), [Yiyang Lin](), [Yuji Wang](https://voyagewang.github.io/), [Yong Deng](https://scholar.google.com/citations?hl=zh-CN&user=jSmXXicAAAAJ), [Yansong Tang](https://andytang15.github.io/)*
+----
+
+The repository contains the official implementation for the paper "TAIHRI: Task-Aware 3D Human Keypoints Localization for Close-Range Human-Robot Interaction".
 
 ## 📁 Repository Structure
 
