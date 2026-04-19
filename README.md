@@ -3,7 +3,11 @@
 
 *[Ao Li](https://rammusleo.github.io/), [Yonggen Ling](https://ygling2008.github.io/), [Yiyang Lin](), [Yuji Wang](https://voyagewang.github.io/), [Yong Deng](https://scholar.google.com/citations?hl=zh-CN&user=jSmXXicAAAAJ), [Yansong Tang](https://andytang15.github.io/)*
 ----
+## 📰News
 
+[2025.04.19] We have release the checkpoint. Enjoy it!
+
+----
 The repository contains the official implementation for the paper "TAIHRI: Task-Aware 3D Human Keypoints Localization for Close-Range Human-Robot Interaction".
 
 ## 📁 Repository Structure
